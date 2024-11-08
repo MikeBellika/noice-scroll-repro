@@ -15,11 +15,3 @@ pnpm dev
 Might need to restart nvim or LspRestart after that.
 
 Then go to /components/ReproWatch.vue and do like the video
-
-```
-
-```
-
-```
-
-```
